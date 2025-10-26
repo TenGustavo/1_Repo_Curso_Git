@@ -1,1 +1,0 @@
-Se tudo der certo, este arquvio deve ser ignorado pelo git.
